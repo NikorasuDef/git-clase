@@ -1,3 +1,3 @@
-# este es mi segundo.1 commitss
+# este es mi segundo.1 commit
 
 print('Suscribete')
